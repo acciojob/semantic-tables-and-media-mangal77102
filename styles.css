@@ -8,7 +8,7 @@ table{
 tr,th,td{
 	border:1px solid black;
 	padding-right:50px;
-	background-color:yellow}
+	}
 tr:hover td {
     background-color: red;
 }
